@@ -1,0 +1,7 @@
+cin	10	
+cout	8	
+get	10	
+include	1	
+iostream	1	
+main	5	
+std	2	

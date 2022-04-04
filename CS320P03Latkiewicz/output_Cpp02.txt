@@ -1,0 +1,8 @@
+cout	17	
+i	15	16	17	18	
+include	1	
+iostream	1	
+main	13	
+square	5	17	
+std	2	
+x	5	7	
