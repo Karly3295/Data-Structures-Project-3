@@ -1,0 +1,13 @@
+  1 unsigned int f(int);
+  2 
+  3 float add(int x, double y) {
+  4 	return x + y;
+  5 }
+  6 
+  7 int main()
+  8 {
+  9 	int x;
+ 10 	int y;
+ 11 	printf(x + y, add(x, y));
+ 12 	return 0;
+ 13 }

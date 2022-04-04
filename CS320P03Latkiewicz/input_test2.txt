@@ -1,0 +1,30 @@
+  1 unsigned int f(int);
+  2 float add(int x, double y) {
+  3 return x + y;
+  4 }
+  5 int main()
+  6 {
+  7 	int max = 200;
+  8 	int a[200];
+  9 	int x;
+ 10 	int y;
+ 11 	unsigned i = 0;
+ 12 	scanf( x, y);
+ 13 	while( i < MAX ) {
+ 14 	a[i++] = 0;
+ 15 	}
+ 16 	i = 0;
+ 17 	while( i < MAX ) {
+ 18 		a[i] = x + y;
+ 19 		scanf( x, y);
+ 20 		i++;
+ 21 	};
+ 22 	if( i > 0 ) {
+ 23 		printf( a[i]/ i );
+ 24 	}
+ 25 	else {
+ 26 		printf("i <= 0");
+ 27 	}
+ 28 	
+ 29 	return 0;
+ 30 }
